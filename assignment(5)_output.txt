@@ -1,0 +1,105 @@
+Enter the string to reverse
+nikesh
+hsekin
+Enter the lower value of range
+2
+Enter the last value of range
+12
+Enter the no. which is divisible to the given range
+2
+ all Numbers in a Range Divisible by a 2 :-
+2
+4
+6
+8
+10
+12
+end
+Enter the first side
+3
+Enter the second side
+5
+Enter the third side
+7
+Area of the triangle  6.5
+enter the no. of columns of star pattern to print 
+5
+===== The Star Pattern =====
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+Enter Right Triangle Consecutive Alphabets Rows = 
+9
+====The Right Triangle of Consecutive Alphabets Pattern====
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+P Q R S T U 
+V W X Y Z A B 
+C D E F G H I J 
+K L M N O P Q R S 
+Enter the lower value:
+2
+Enter the upper value:
+15
+The prime no. between  (2, 15) are
+2
+3
+5
+7
+11
+13
+The numbers which are multiple of 7 and divisible by 11 in the range 1-500 is
+0
+77
+154
+231
+308
+385
+462
+Enter the 10 no. for list
+Enter the 1 no. for list
+2
+Enter the 2 no. for list
+3
+Enter the 3 no. for list
+4
+Enter the 4 no. for list
+5
+Enter the 5 no. for list
+-3
+Enter the 6 no. for list
+-4
+Enter the 7 no. for list
+10
+Enter the 8 no. for list
+8
+Enter the 9 no. for list
+-5
+Enter the 10 no. for list
+-1
+list entered [2, 3, 4, 5, -3, -4, 10, 8, -5, -1]
+positive no. 
+ {2, 3, 4, 5, 8, 10}
+negative no.
+ {-5, -4, -3, -1}
+odd no.
+ {3, 5, -5, -3, -1}
+even no.
+ {2, 4, 8, 10, -4}
+No. of occurrence is {2: 1, 3: 1, 4: 1, 5: 1, -3: 1, -4: 1, 10: 1, 8: 1, -5: 1, -1: 1}
+Enter the sentence :
+apple banana apple banana orange
+{'apple': 2, 'banana': 2, 'orange': 1}
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
